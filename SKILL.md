@@ -1,11 +1,10 @@
 ---
 name: wartime-peacetime-diagnosis
-description: Diagnose whether an organization is in wartime (survival) or peacetime
-  (growth) mode and prescribe the appropriate leadership style.
+description: Diagnose whether an organization is in wartime (survival) or peacetime (growth) mode and prescribe the appropriate leadership style.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - wartime-peacetime-diagnosis
 - writing
