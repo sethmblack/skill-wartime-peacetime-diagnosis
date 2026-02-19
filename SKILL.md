@@ -3,8 +3,9 @@ name: wartime-peacetime-diagnosis
 description: Diagnose whether an organization is in wartime (survival) or peacetime (growth) mode and prescribe the appropriate leadership style.
 license: MIT
 metadata:
+  version: 1.0.5300
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - wartime-peacetime-diagnosis
 - writing
